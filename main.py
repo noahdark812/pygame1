@@ -10,7 +10,7 @@ pygame.display.set_caption("MinecraftNoah")
 icon = pygame.image.load("img/Minecraft-creeper-face.jpg")
 pygame.display.set_icon(icon)
 
-target_img = pygame.image.load("img/zombi.png")
+target_img = pygame.image.load("img/zombi1.png")
 target_width = 80
 target_height = 80
 
